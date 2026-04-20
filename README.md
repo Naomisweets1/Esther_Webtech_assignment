@@ -1,4 +1,4 @@
-Web Technology Assignment 1
+Web Design Assignment 1
 
 Student Information
 Name: Esther Naomi Lambert  
